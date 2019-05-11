@@ -1,2 +1,1 @@
-# delete_slack_file
-
+Project to delete slack files for a specific user using Java and Selenium with Cucumber. The files will be deleted from the admin webpage, so remember to change the URL and insert your admin username and password.
